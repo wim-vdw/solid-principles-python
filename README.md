@@ -14,11 +14,11 @@ Coupling is defined as the level of inter-dependency between various software co
 ## OCP: Open/Closed Principle
 
 Software components should be closed for modification but open for extension.  
-Open closed principle often requires decoupling, which in turn, automatically follows the single responsibility principle.
+Open closed principle often requires decoupling, which in turn, automatically follows the single responsibility
+principle.
 
 * [Python code before OCP implementation](https://github.com/wim-vdw/solid-principles-python/blob/main/02-ocp/02-ocp-1-before.py)
 * [Python code after OCP implementation](https://github.com/wim-vdw/solid-principles-python/blob/main/02-ocp/02-ocp-2-after.py)
-
 
 ## LSP: Liskov Substitution Principle
 
@@ -32,3 +32,12 @@ No client should be forced to depend on methods it does note use.
 
 High-level modules should not depend on low-level modules. Both should depend on abstractions.  
 Abstractions should not depend on details. Details should depend on abstractions.
+
+## Task list
+
+- [ ] Update general information on what SOLID is.
+- [x] Document SRP principle including code examples.
+- [x] Document OCP principle including code examples.
+- [ ] Document LSP principle including code examples.
+- [ ] Document ISP principle including code examples.
+- [ ] Document DIP principle including code examples.
