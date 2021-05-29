@@ -3,7 +3,7 @@ Before implementation of SRP (Single Responsibility Principle).
 
 Low cohesion between the different methods of the Person class, getting and setting property data
 has nothing to do with printing or saving the data.
-Tight-coupling in the print and save methods, in case we would like to print to a different format or
+Tight coupling in the print and save methods, in case we would like to print to a different format or
 would like to save the data to a database the complete methods needs to be rewritten.
 """
 
