@@ -34,3 +34,9 @@ class Person:
     def save(self):
         with open('data.txt', 'w') as writer:
             writer.write(self.get_full_name())
+
+
+if __name__ == '__main__':
+    person = Person('Wim', 'Van den Wyngaert')
+    person.print()
+    person.save()

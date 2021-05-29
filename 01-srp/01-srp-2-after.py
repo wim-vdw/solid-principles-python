@@ -57,3 +57,13 @@ class PersistPersonDatabase(PersistPerson):
     def save(self, person: Person):
         """Code can be put here to persist person in a database."""
         pass
+
+
+if __name__ == '__main__':
+    person = Person('Wim', 'Van den Wyngaert')
+    plain_text_print = PrintPlaintText()
+    plain_text_print.print(person)
+    html_print = PrintHTML()
+    html_print.print(person)
+    persist_person_in_file = PersistPersonFile()
+    persist_person_in_file.save(person)
