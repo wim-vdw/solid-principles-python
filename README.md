@@ -8,8 +8,8 @@ Every software component should have one and only one responsibility or should h
 Cohesion is the degree to which the various parts of a software component are related.  
 Coupling is defined as the level of inter-dependency between various software components.
 
-* [Python code before SRP implementation](https://github.com/wim-vdw/solid-principles-python/blob/main/01-srp-1-before.py)
-* [Python code after SRP implementation](https://github.com/wim-vdw/solid-principles-python/blob/main/01-srp-2-after.py)
+* [Python code before SRP implementation](https://github.com/wim-vdw/solid-principles-python/blob/main/01-srp/01-srp-1-before.py)
+* [Python code after SRP implementation](https://github.com/wim-vdw/solid-principles-python/blob/main/01-srp/01-srp-2-after.py)
 
 ## OCP: Open/Closed Principle
 
