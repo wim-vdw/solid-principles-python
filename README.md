@@ -37,8 +37,8 @@ pointers or references to base classes must be able to use objects of derived cl
 The Liskov Substitution Principle can be implemented by two patterns (see the example code for more details): 
 the `Break the hierarchy` pattern or the `Tell, don't ask` pattern.  
 
-* [Python code before LSP implementation](https://github.com/wim-vdw/solid-principles-python/blob/main/03-ocp/03-lsp-1-before.py)
-* [Python code after LSP implementation](https://github.com/wim-vdw/solid-principles-python/blob/main/03-ocp/03-lsp-2-after.py)
+* [Python code before LSP implementation](https://github.com/wim-vdw/solid-principles-python/blob/main/03-lsp/03-lsp-1-before.py)
+* [Python code after LSP implementation](https://github.com/wim-vdw/solid-principles-python/blob/main/03-lsp/03-lsp-2-after.py)
 
 ## ISP: Interface Segregation Principle
 
