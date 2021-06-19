@@ -55,6 +55,6 @@ They should depend on abstractions and abstractions should not depend on details
 - [x] Update general information on what SOLID is.
 - [x] Document SRP principle including code examples.
 - [x] Document OCP principle including code examples.
-- [ ] Document LSP principle including code examples.
+- [x] Document LSP principle including code examples.
 - [ ] Document ISP principle including code examples.
 - [ ] Document DIP principle including code examples.
