@@ -1,8 +1,10 @@
 """
 Before implementation of ISP (Interface Segregation Principle).
 
-The interface MultiFunction is too fat and has low cohesion (printing has nothing to do with scanning).
-The concrete StandardPrinter implementation also has and empty 'scan' method.
+ISP violations:
+  - The interface MultiFunction is too fat.
+  - Low cohesion between methods (printing has nothing to do with scanning).
+  - The concrete class StandardPrinter also contains an empty method implementation (scan).
 """
 
 
