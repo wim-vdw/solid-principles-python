@@ -57,6 +57,9 @@ Entities must depend on abstractions, not on concretions. High-level modules sho
 They should depend on abstractions and abstractions should not depend on details, rather details should depend on
 abstractions.
 
+* [Python code before DIP implementation](https://github.com/wim-vdw/solid-principles-python/blob/main/05-dip/05-dip-1-before.py)
+* [Python code after DIP implementation](https://github.com/wim-vdw/solid-principles-python/blob/main/05-dip/05-dip-2-after.py)
+
 ## Task list
 
 - [x] Update general information on what SOLID is.
