@@ -67,4 +67,4 @@ abstractions.
 - [x] Document OCP principle including code examples.
 - [x] Document LSP principle including code examples.
 - [x] Document ISP principle including code examples.
-- [ ] Document DIP principle including code examples.
+- [x] Document DIP principle including code examples.
